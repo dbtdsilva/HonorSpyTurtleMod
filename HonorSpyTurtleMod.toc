@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: HonorSpyTurtleMod
+## Title-ruRU: HonorSpyTurtleMod
+## Notes: Records PvP standings of all players
+## Notes-ruRU: Записывает PvP позиции всех игроков
+## Author: kakysha, contributors: Mistaboom and Moxie
+## OptionalDeps: Ace2
+## Version: 3
+## X-Category: Battlegrounds/PvP
+## SavedVariables: HonorSpyTurtleModDB
+
+Libs\embeds.xml
+
+localization.lua
+
+honorspy.lua
+standings.lua
+export.lua
